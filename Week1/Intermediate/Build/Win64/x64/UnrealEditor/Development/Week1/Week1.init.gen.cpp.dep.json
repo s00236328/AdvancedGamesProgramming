@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\repo\\advancedgamesprogramming\\week1\\intermediate\\build\\win64\\unrealeditor\\inc\\week1\\uht\\week1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\repo\\advancedgamesprogramming\\week1\\intermediate\\build\\win64\\x64\\week1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\repo\\advancedgamesprogramming\\week1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\week1\\definitions.week1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
