@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Week1",
+			"Path": "..\\Source\\Week1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Week1Editor",
+			"Path": "..\\Source\\Week1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
